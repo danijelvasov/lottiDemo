@@ -1,0 +1,3 @@
+# lottiDemo
+
+AnimationApp
